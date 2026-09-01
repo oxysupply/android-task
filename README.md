@@ -33,7 +33,7 @@ Is there anything worth testing? If so, then some very simple unit tests would b
 * Imports are missing for some reason? Reload Gradle project - might help
 * Manifest file should contain only necessary permissions
 * Few android emulators with different versions should help with testing
-* Minimum supported android version should be Android Lollipop
+* Minimum supported android version should be Android Nougat
 
 ## What we find extra value in
 * You verbally explain approaches you take and what you are looking for.
